@@ -90,7 +90,7 @@
 						<image>openjdk:11</image>
 					</from>
 					<to>
-						<image>${REPO_URL}}/productservice</image>
+						<image>${REPO_URL}/productservice</image>
 						<tags>${project.version}</tags>
 					</to>
 				</configuration>
